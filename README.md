@@ -43,7 +43,7 @@ A typical layout is:
 
 ```text
 .
-├── iStructTab/
+├── istructtab/
 │   ├── __init__.py
 │   ├── iStructTab.py              # GEDS + OEMT (default)
 ├── HAM_iStructTab.ipynb  # example on HAM10000
