@@ -1,4 +1,4 @@
-<!--# iStructTab (ICPR 2026 Submission)-->
+<!--# iStructTab (ICPR 2026)-->
 
 # This Repository is under construction now
 
