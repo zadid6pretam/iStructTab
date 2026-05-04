@@ -86,6 +86,7 @@ optuna>=3.6
 
 Pillow>=10.0
 matplotlib>=3.7
+```
 
 ### Other top-level files
 
