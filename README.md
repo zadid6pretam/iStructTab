@@ -379,7 +379,7 @@ In this work, iStructTab formulates multimodal image-tabular fusion as a feature
 
 ### GOTabPFN
 
-Our recent ICML 2026 Regular main conference paper on feature ordering and compression for tabular foundation models:
+Our recent ICML 2026 Regular main conference paper on feature ordering and compression for tabular foundation models for high-dimensional low-sample-size tabular data:
 - GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
 GitHub: https://github.com/zadid6pretam/GOTabPFN
 
