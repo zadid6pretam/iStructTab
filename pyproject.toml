@@ -52,7 +52,6 @@ dependencies = [
 Homepage = "https://github.com/zadid6pretam/iStructTab"
 Source = "https://github.com/zadid6pretam/iStructTab"
 Issues = "https://github.com/zadid6pretam/iStructTab/issues"
-Paper = "https://arxiv.org/abs/2604.27606"
 Conference = "https://icpr2026.org/"
 
 [tool.setuptools.packages.find]
