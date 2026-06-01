@@ -61,7 +61,9 @@ This folder contains the core iStructTab implementation:
   - `iStructTab` as the high-level multimodal image-tabular model wrapper.
 
 ### Notebooks
-
+**Since May 30, 2026, all Jupyter notebook previews are failing with "An error occurred" message. This affects both my own notebooks and others' repositories. Using nbformat v5.10.4 and nbconvert v7.17.1. Notebooks are valid and working locally. This appears to be a GitHub-side rendering issue.**
+- See: https://github.com/orgs/community/discussions/197350
+  
 - **`HAM_iStructTab.ipynb`**  
   Contains the full iStructTab experiment pipeline on the HAM10000 dataset. The notebook includes data preprocessing, multimodal image-tabular model setup, Optuna-based hyperparameter tuning, GEDS feature sequencing, OEMT training, evaluation, robustness checks, calibration analysis, and related diagnostic visualizations.
 
