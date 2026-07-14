@@ -377,7 +377,7 @@ iStructTab is part of my PhD research on structured tabular and multimodal deep 
 
 In this work, iStructTab formulates multimodal image-tabular fusion as a feature sequencing problem inspired by the Column Permutation Problem (CPP). It introduces Graph-Enhanced Descriptor Sequencing (GEDS) to construct a data-driven feature order and uses an Order-Aware Efficient Transformer with Memory Augmentation (OEMT) to preserve and exploit that order during prediction. This connects directly to my dissertation research themes on feature ordering, structure-aware representation learning, and efficient deep learning for tabular and multimodal data.
 
-### GOTabPFN
+### GOTabPFN (ICML 2026)
 
 Our recent ICML 2026 Regular main conference paper on feature ordering and compression for tabular foundation models for high-dimensional low-sample-size tabular data:
 - **GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data**
@@ -385,6 +385,7 @@ Our recent ICML 2026 Regular main conference paper on feature ordering and compr
 - GitHub: https://github.com/zadid6pretam/GOTabPFN
 - - **Find it on ICML portal:** https://icml.cc/virtual/2026/poster/62523
 - **Project Webpage:** https://www.zadidhabib.com/gotabpfn.html
+- **OpenReview:** https://openreview.net/forum?id=fpqfV3lCIB
 - **Hugging Face Space:** [ZeroGPU Live Demo](https://zadid6pretam-GOTabPFN.hf.space) *(recommended; faster GPU-backed testing)* | [CPU Backup Demo](https://zadid6pretam-GOTabPFN-CPU.hf.space) *(use if ZeroGPU is unavailable)* | [ZeroGPU Space Repository](https://huggingface.co/spaces/zadid6pretam/GOTabPFN) | [CPU Backup Space Repository](https://huggingface.co/spaces/zadid6pretam/GOTabPFN_CPU)
 
 ```bibtex
@@ -396,7 +397,27 @@ Our recent ICML 2026 Regular main conference paper on feature ordering and compr
 }
 ```
 
-### BSTabDiff
+### iSyncTab (ECCV 2026)
+
+Our neural synchrony-based cross-modal feature sequencing framework for multimodal learning with image and tabular data. iSyncTab addresses the image–tabular integration problem by aligning and sequencing cross-modal feature groups before structured multimodal representation learning.
+
+- **iSyncTab: Learning Cross-Modal Feature Sequencing for Image-Tabular Data via Neural Synchrony**  
+- Accepted at the European Conference on Computer Vision (ECCV 2026)
+- GitHub: https://github.com/zadid6pretam/iSyncTab (will be made public soon)
+- Project Page: https://www.zadidhabib.com/isynctab.html (will be made public soon)
+
+```bibtex
+@inproceedings{habib2026isynctab,
+  title     = {iSyncTab: Learning Cross-Modal Feature Sequencing for Image-Tabular Data via Neural Synchrony},
+  author    = {Habib, Al Zadid Sultan Bin and Ahamed, Md Younus and Gyawali, Prashnna and Doretto, Gianfranco and Adjeroh, Donald A.},
+  booktitle = {Proceedings of the European Conference on Computer Vision},
+  year      = {2026}
+}
+```
+- If you are interested in cross-modal feature sequencing, neural synchrony-guided image–tabular integration, and order-aware multimodal representation learning, please refer to the iSyncTab repository, project page, and paper.
+
+
+### BSTabDiff (ICLR 2026 DeLTa Workshop)
 
 Our generative modeling framework for high-dimensional low-sample-size tabular data:
 - **BSTabDiff: Block-Subunit Diffusion Priors for High-Dimensional Tabular Data Generation**
@@ -417,7 +438,7 @@ Our generative modeling framework for high-dimensional low-sample-size tabular d
 - If you are interested in high-dimensional tabular synthesis, block-subunit generation, and diffusion/flow priors for HDLSS tabular data, please also refer to the BSTabDiff repository and paper.
 
 
-### iStructTab
+### iStructTab (ICPR 2026)
 
 Our structured feature sequencing framework for multimodal learning with image and tabular data. This work involves feature sequencing or ordering for multimodal image-tabular representation learning.
 
@@ -436,7 +457,7 @@ Our structured feature sequencing framework for multimodal learning with image a
 ```
 - If you are interested in structured feature sequencing, multimodal fusion of image and tabular data (the integration problem), and feature order-aware tabular representation learning, please also refer to the iStructTab repository and paper.
 
-## DynaTab
+## DynaTab (AAAI 2026 NeurAI Workshop)
 
 One of our older works on learned feature ordering for high-dimensional tabular data:
 
@@ -462,7 +483,7 @@ Bibtex:
 - If you are interested in learned feature ordering, neural rewiring for high-dimensional tabular data, and sequential backbone design for HDLSS settings, please also refer to the benchmark study in DynaTab repository and paper.
 
 
-### TabSeq
+### TabSeq (ICPR 2024)
 
 Our earlier work on sequential modeling for tabular data:
 
@@ -490,7 +511,7 @@ Our earlier work on sequential modeling for tabular data:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### ZAYAN
+### ZAYAN (ICPR 2026)
 
 This repository corresponds to our separate collaborative work on tabular remote sensing and environmental data:
 - ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data
