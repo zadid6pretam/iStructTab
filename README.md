@@ -515,6 +515,8 @@ Our earlier work on sequential modeling for tabular data:
 
 This repository corresponds to our separate collaborative work on tabular remote sensing and environmental data:
 - ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data
+- Paper: https://link.springer.com/chapter/10.1007/978-3-032-31397-3_1
+- arXiv: https://arxiv.org/abs/2604.27606
 - GitHub: https://github.com/zadid6pretam/ZAYAN
 
 ```bibtex
