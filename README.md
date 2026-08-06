@@ -44,6 +44,8 @@ BibTeX:
   address   = {Lyon, France}
 }
 ```
+- Paper: https://link.springer.com/chapter/10.1007/978-3-032-31404-8_43 
+- arXiv: https://arxiv.org/abs/2608.04348
 
 ## Files and Repository Structure
 
@@ -445,6 +447,8 @@ Our structured feature sequencing framework for multimodal learning with image a
 - **iStructTab: Structured Feature Sequencing for Multimodal Learning of Image and Tabular Data**  
 
 - GitHub: https://github.com/zadid6pretam/iStructTab
+- Paper: https://link.springer.com/chapter/10.1007/978-3-032-31404-8_43 
+- arXiv: https://arxiv.org/abs/2608.04348
 
 ```bibtex
 @inproceedings{habib2026istructtab,
