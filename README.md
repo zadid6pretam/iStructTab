@@ -27,8 +27,8 @@ iStructTab is a structured feature sequencing framework for **multimodal image-t
 - **Image data** (e.g., medical images, natural images).
 - iStructTab itself is **not specific** to HAM10000: any dataset with tabular + image inputs can be used by providing a matching PyTorch `Dataset` / `DataLoader`.
 
-The key idea is to treat **both tabular features and image features as tokens**, then use **raph-Enhanced
-Descriptor Sequencing (GEDS** to learn a global permutation over all tokens before feeding them to a transformer-like encoder (linformer).
+The key idea is to treat **both tabular features and image features as tokens**, then use **Graph-Enhanced
+Descriptor Sequencing (GEDS)** to learn a global permutation over all tokens before feeding them to a transformer-like encoder (linformer).
 
 ## Citation
 
