@@ -409,6 +409,7 @@ Our neural synchrony-based cross-modal feature sequencing framework for multimod
 - Project Page: https://www.zadidhabib.com/isynctab.html (Under construction)
 - ECCV Page: https://eccv.ecva.net/virtual/2026/poster/5442
 - Paper: https://doi.org/10.1007/978-3-032-37035-8 (In Press)
+- Hugging Face: https://huggingface.co/zadid6pretam/iSyncTab-HAM10000 (Model weights and checkpoint for the HAM10000 dataset)
 
 ```bibtex
 @inproceedings{habib2026isynctab,
