@@ -405,8 +405,10 @@ Our neural synchrony-based cross-modal feature sequencing framework for multimod
 
 - **iSyncTab: Learning Cross-Modal Feature Sequencing for Image-Tabular Data via Neural Synchrony**  
 - Accepted at the European Conference on Computer Vision (ECCV 2026)
-- GitHub: https://github.com/zadid6pretam/iSyncTab (will be made public soon)
-- Project Page: https://www.zadidhabib.com/isynctab.html (will be made public soon)
+- GitHub: https://github.com/zadid6pretam/iSyncTab 
+- Project Page: https://www.zadidhabib.com/isynctab.html (Under construction)
+- ECCV Page: https://eccv.ecva.net/virtual/2026/poster/5442
+- Paper: https://doi.org/10.1007/978-3-032-37035-8 (In Press)
 
 ```bibtex
 @inproceedings{habib2026isynctab,
